@@ -12,7 +12,7 @@ export default function Sec() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-          <h3>sec sec page</h3>
+          <h3>sec_third index</h3>
       </main>
     </>
   );
